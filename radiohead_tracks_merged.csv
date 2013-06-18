@@ -1,0 +1,90 @@
+#,Album,Track,Title,Minutes,Seconds,Length (seconds),Stopwords,Non-stopwords,Total,LexD,LyricD (words/s)
+1,Pablo Honey,1,You  ,3,29,209,88,40,128,31.25,0.612440191
+1,Pablo Honey,2,Creep  ,3,56,236,49,67,116,57.75862069,0.491525424
+1,Pablo Honey,3,How Do You?  ,2,12,132,47,25,72,34.72222222,0.545454545
+1,Pablo Honey,4,Stop Whispering  ,5,26,326,45,56,101,55.44554455,0.309815951
+1,Pablo Honey,5,Thinking About You  ,2,41,161,109,48,157,30.57324841,0.97515528
+1,Pablo Honey,6,Anyone Can Play Guitar  ,3,38,218,54,54,108,50,0.495412844
+1,Pablo Honey,7,Ripcord  ,3,10,190,21,47,68,69.11764706,0.357894737
+1,Pablo Honey,8,Vegetable  ,3,13,193,48,56,104,53.84615385,0.538860104
+1,Pablo Honey,9,Prove Yourself  ,2,25,145,42,33,75,44,0.517241379
+1,Pablo Honey,10,I Can't  ,4,13,253,82,37,119,31.09243697,0.470355731
+1,Pablo Honey,11,Lurgee  ,3,8,188,36,17,53,32.0754717,0.281914894
+1,Pablo Honey,12,Blow Out  ,4,40,280,29,35,64,54.6875,0.228571429
+2,The Bends,1,Planet Telex,4,19,259,54,34,88,38.63636364,0.33976834
+2,The Bends,2,The Bends,4,6,246,100,94,194,48.45360825,0.788617886
+2,The Bends,3,High and Dry,4,7,247,88,83,171,48.5380117,0.692307692
+2,The Bends,4,Fake Plastic Trees,4,50,290,72,54,126,42.85714286,0.434482759
+2,The Bends,5,Bones,3,9,189,34,43,77,55.84415584,0.407407407
+2,The Bends,6,(Nice Dream),3,53,233,46,51,97,52.57731959,0.416309013
+2,The Bends,7,Just,3,54,234,86,41,127,32.28346457,0.542735043
+2,The Bends,8,My Iron Lung,4,36,276,65,85,150,56.66666667,0.543478261
+2,The Bends,9,Bullet Proof..I Wish I Was,3,28,208,26,38,64,59.375,0.307692308
+2,The Bends,10,Black Star,4,7,247,60,41,101,40.59405941,0.408906883
+2,The Bends,11,Sulk,3,42,222,53,69,122,56.55737705,0.54954955
+2,The Bends,12,Street Spirit (Fade Out),4,12,252,60,43,103,41.74757282,0.408730159
+3,OK Computer,1,Airbag  ,4,44,284,18,39,57,68.42105263,0.200704225
+3,OK Computer,2,Paranoid Android  ,6,23,383,80,84,164,51.2195122,0.428198433
+3,OK Computer,3,Subterranean Homesick Alien  ,4,27,267,47,75,122,61.47540984,0.456928839
+3,OK Computer,4,Exit Music (For a Film)  ,4,24,264,41,46,87,52.87356322,0.329545455
+3,OK Computer,5,Let Down  ,4,59,299,87,62,149,41.61073826,0.498327759
+3,OK Computer,6,Karma Police  ,4,21,261,69,41,110,37.27272727,0.421455939
+3,OK Computer,7,Fitter Happier  ,1,57,117,69,134,203,66.00985222,1.735042735
+3,OK Computer,8,Electioneering  ,3,50,230,36,29,65,44.61538462,0.282608696
+3,OK Computer,9,Climbing Up the Walls  ,4,45,285,72,51,123,41.46341463,0.431578947
+3,OK Computer,10,No Surprises  ,3,48,228,51,93,144,64.58333333,0.631578947
+3,OK Computer,11,Lucky  ,4,19,259,31,40,71,56.33802817,0.274131274
+3,OK Computer,12,The Tourist  ,5,24,324,35,34,69,49.27536232,0.212962963
+4,Kid A,1,Everything in Its Right Place  ,4,11,251,57,30,87,34.48275862,0.346613546
+4,Kid A,2,Kid A  ,4,44,284,25,36,61,59.01639344,0.214788732
+4,Kid A,3,The National Anthem  ,5,51,351,18,10,28,35.71428571,0.07977208
+4,Kid A,4,How to Disappear Completely  ,5,56,356,35,25,60,41.66666667,0.168539326
+4,Kid A,5,Treefingers  ,3,42,222,0,0,0,0,0
+4,Kid A,6,Optimistic  ,5,15,315,132,57,189,30.15873016,0.6
+4,Kid A,7,In Limbo  ,3,31,211,19,61,80,76.25,0.379146919
+4,Kid A,8,Idioteque,5,9,309,75,82,157,52.22929936,0.508090615
+4,Kid A,9,Morning Bell  ,4,35,275,63,71,134,52.98507463,0.487272727
+4,Kid A,10,Motion Picture Soundtrack  ,7,1,421,35,52,87,59.77011494,0.206650831
+5,Amnesiac,1,Packt Like Sardines in a Crushd Tin Box  ,4,0,240,103,21,124,16.93548387,0.516666667
+5,Amnesiac,2,Pyramid Song  ,4,49,289,63,44,107,41.12149533,0.370242215
+5,Amnesiac,3,Pulk/Pull Revolving Doors,4,7,247,43,21,64,32.8125,0.259109312
+5,Amnesiac,4,You and Whose Army?  ,3,11,191,34,15,49,30.6122449,0.256544503
+5,Amnesiac,5,I Might Be Wrong  ,4,54,294,51,15,66,22.72727273,0.224489796
+5,Amnesiac,6,Knives Out  ,4,15,255,44,40,84,47.61904762,0.329411765
+5,Amnesiac,7,Morning Bell/Amnesiac  ,3,14,194,29,40,69,57.97101449,0.355670103
+5,Amnesiac,8,Dollars and Cents  ,4,52,292,143,124,267,46.44194757,0.914383562
+5,Amnesiac,9,Hunting Bears  ,2,1,121,0,0,0,0,0
+5,Amnesiac,10,Like Spinning Plates  ,3,57,237,17,22,39,56.41025641,0.164556962
+5,Amnesiac,11,Life in a Glasshouse  ,4,34,274,52,58,110,52.72727273,0.401459854
+6,Hail to the Thief,1,2 + 2 = 5 (The Lukewarm.)  ,3,19,199,64,49,113,43.36283186,0.567839196
+6,Hail to the Thief,2,Sit down. Stand up. (Snakes & Ladders.)  ,4,19,259,21,36,57,63.15789474,0.22007722
+6,Hail to the Thief,3,Sail to the Moon. (Brush the Cobwebs out of the Sky.)  ,4,18,258,18,24,42,57.14285714,0.162790698
+6,Hail to the Thief,4,Backdrifts. (Honeymoon is Over.)  ,5,22,322,73,47,120,39.16666667,0.372670807
+6,Hail to the Thief,5,Go to Sleep. (Little Man being Erased.)  ,3,21,201,34,41,75,54.66666667,0.373134328
+6,Hail to the Thief,6,Where I End and You Begin. (The Sky is Falling in.)  ,4,29,269,62,42,104,40.38461538,0.3866171
+6,Hail to the Thief,7,We suck Young Blood. (Your Time is up.)  ,4,56,296,39,30,69,43.47826087,0.233108108
+6,Hail to the Thief,8,The Gloaming. (Softly Open our Mouths in the Cold.)  ,3,32,212,72,59,131,45.03816794,0.617924528
+6,Hail to the Thief,9,There there. (The Boney King of Nowhere.)  ,5,25,325,41,51,92,55.43478261,0.283076923
+6,Hail to the Thief,10,I will. (No man's Land.)  ,1,59,119,9,42,51,82.35294118,0.428571429
+6,Hail to the Thief,11,A Punchup at a Wedding. (No no no no no no no no.)  ,4,57,297,48,48,96,50,0.323232323
+6,Hail to the Thief,12,"Myxomatosis. (Judge, Jury & Executioner.)  ",3,52,232,67,76,143,53.14685315,0.61637931
+6,Hail to the Thief,13,Scatterbrain. (As Dead as Leaves.)  ,3,21,201,18,38,56,67.85714286,0.278606965
+6,Hail to the Thief,14,A Wolf at the Door. (It Girl. Rag Doll.)  ,3,21,201,131,132,263,50.19011407,1.308457711
+7,In Rainbows,1,15 Step  ,3,58,238,59,34,93,36.55913978,0.390756303
+7,In Rainbows,2,Bodysnatchers  ,4,2,242,71,63,134,47.01492537,0.553719008
+7,In Rainbows,3,Nude  ,4,15,255,27,28,55,50.90909091,0.215686275
+7,In Rainbows,4,Weird Fishes/Arpeggi  ,5,18,318,39,46,85,54.11764706,0.267295597
+7,In Rainbows,5,All I Need  ,3,48,228,52,27,79,34.17721519,0.346491228
+7,In Rainbows,6,Faust Arp  ,2,9,129,77,61,138,44.20289855,1.069767442
+7,In Rainbows,7,Reckoner  ,4,50,290,27,25,52,48.07692308,0.179310345
+7,In Rainbows,8,House of Cards  ,5,28,328,38,56,94,59.57446809,0.286585366
+7,In Rainbows,9,Jigsaw Falling into Place  ,4,9,249,124,73,197,37.05583756,0.791164659
+7,In Rainbows,10,Videotape  ,4,42,282,38,35,73,47.94520548,0.258865248
+8,The King of Limbs,1,Bloom  ,5,15,315,20,22,42,52.38095238,0.133333333
+8,The King of Limbs,2,Morning Mr Magpie  ,4,41,281,43,21,64,32.8125,0.227758007
+8,The King of Limbs,3,Little by Little  ,4,27,267,50,60,110,54.54545455,0.411985019
+8,The King of Limbs,4,Feral  ,3,13,193,7,6,13,46.15384615,0.067357513
+8,The King of Limbs,5,Lotus Flower  ,5,1,301,84,94,178,52.80898876,0.591362126
+8,The King of Limbs,6,Codex  ,4,47,287,22,16,38,42.10526316,0.132404181
+8,The King of Limbs,7,Give Up the Ghost  ,4,50,290,27,55,82,67.07317073,0.282758621
+8,The King of Limbs,8,Separator  ,5,20,320,83,89,172,51.74418605,0.5375
